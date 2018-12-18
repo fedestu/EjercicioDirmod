@@ -1,0 +1,14 @@
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\bin\Debug\netcoreapp2.1\Ejercicio.deps.json
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\bin\Debug\netcoreapp2.1\Ejercicio.runtimeconfig.json
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\bin\Debug\netcoreapp2.1\Ejercicio.runtimeconfig.dev.json
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\bin\Debug\netcoreapp2.1\Ejercicio.dll
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\bin\Debug\netcoreapp2.1\Ejercicio.pdb
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.csprojAssemblyReference.cache
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.csproj.CoreCompileInputs.cache
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.RazorAssemblyInfo.cache
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.RazorAssemblyInfo.cs
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.AssemblyInfoInputs.cache
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.AssemblyInfo.cs
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.RazorTargetAssemblyInfo.cache
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.dll
+D:\Curso .NET\Trabajo\Algo\Ejercicio\Ejercicio\obj\Debug\netcoreapp2.1\Ejercicio.pdb
